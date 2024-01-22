@@ -2,7 +2,7 @@
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning Software
 - 💞️ I’m looking to collaborate on SoftwareDevelop
-- 📫 How to reach me 515621078@163.com
+- 📫 How to reach me [NnWinter](https://t.me/NnWinter)
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
